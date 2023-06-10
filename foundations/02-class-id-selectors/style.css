@@ -1,0 +1,16 @@
+.odd{
+    background-color: rgb(231, 87, 130);
+    font-family: 'Verdana','DejaVu Sans',sans-serif;
+}
+#roll2{
+    color: #00F;
+    font-size: 36px;
+}
+.odd.cool{
+    font-size: 24px;
+}
+#roll4{
+    background-color: #0A0;
+    font-size: 24px;
+    font-weight: bold;
+}
